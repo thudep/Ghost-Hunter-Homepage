@@ -1,8 +1,16 @@
-# Ghost Hunter
+# Ghost Hunter 中微子数据分析排位赛
 
-[主页](./homepage.md)
+[赛事主页](./homepage.md)
 
-# 赛事资料
+# 赛事介绍
+
+- [Ghost Hunter 邀请函](./data/invite.md)
+
+# 通知
+
+- [赛事通知](./data/notice.md)
+
+# 资料
 
 - [赛事题目](./data/gh2024.md)
 
