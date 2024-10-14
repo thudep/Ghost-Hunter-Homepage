@@ -23,6 +23,12 @@ jobs:
         with:
           mdbook-version: "latest"
 
+      - uses: supplypike/setup-bin@v4
+        with:
+          uri: "https://github.com/lzanini/mdbook-katex/releases/download/0.9.0-binaries/mdbook-katex-v0.9.0-x86_64-unknown-linux-gnu.tar.gz"
+          name: "mdbook-katex"
+          version: "0.9.0"
+
       - name: Deploy
         uses: cloudflare/wrangler-action@v3
         with:
