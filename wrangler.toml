@@ -2,3 +2,4 @@
 name = "ghost-hunter"
 compatibility_date = "2024-10-11"
 assets = { directory = "./book" }
+workers_dev = false
