@@ -1,7 +1,7 @@
 # Ghost Hunter 中微子数据分析排位赛
 
 - 赛事背景
-  - [(Ghost Hunter 邀请函)](./data/invite.md)
+  - [Ghost Hunter 邀请函](./data/invite.md)
 - 通知
   - [赛事通知](./data/notice.md)
 - 资料
