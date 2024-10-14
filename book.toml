@@ -2,5 +2,5 @@
 authors = ["Jerry"]
 language = "zh-CN"
 multilingual = false
-src = "."
+src = "./src"
 title = "Ghost Hunter 中微子数据分析排位赛"
