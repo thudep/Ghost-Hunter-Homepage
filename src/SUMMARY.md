@@ -1,6 +1,6 @@
 # Ghost Hunter 中微子数据分析排位赛
 
-[赛事主页](./homepage.md)
+[Ghost Hunter 中微子数据分析排位赛](./homepage.md)
 
 # 赛事介绍
 
@@ -12,8 +12,8 @@
 
 # 资料
 
-- [赛事题目](./data/gh2024.md)
+- [赛事题目：JUNO probe](./data/gh2024.md)
 
-# 培训/宣讲会
+# 培训
 
-- [第一次宣讲：赛事宣讲会和数据集简介](./data/briefing-and-data-set.md)
+- [第一次培训：赛事宣讲会和数据集简介](./data/briefing-and-data-set.md)

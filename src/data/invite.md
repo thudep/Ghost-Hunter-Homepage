@@ -1,4 +1,4 @@
-# Ghost Hunter 中微子数据分析排位赛
+# Ghost Hunter 邀请函
 
 ## 赛事简介
 
