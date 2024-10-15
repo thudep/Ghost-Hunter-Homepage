@@ -5,6 +5,7 @@
 # 赛事介绍
 
 - [Ghost Hunter 邀请函](./data/invite.md)
+- [赛事介绍与报名](./data/intro.md)
 
 # 通知
 
