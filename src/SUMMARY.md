@@ -14,8 +14,8 @@
 
 # 资料
 
-- [赛事题目：JUNO probe](./data/gh2024.md)
+- [赛事题目: JUNO probe](./data/gh2024.md)
 
 # 培训
 
-- [第一次培训：赛事宣讲会和数据集简介](./data/briefing-and-data-set.md)
+- [第一次培训: 赛事宣讲会和数据集简介](./data/briefing-and-data-set.md)
