@@ -2,6 +2,8 @@
 
 - 赛事背景
   - [Ghost Hunter 邀请函](./data/invite.md)
+  - [赛事介绍与报名](./data/intro.md)
+  - [赛事日程安排](./data/schedule.md)
 - 通知
   - [赛事通知](./data/notice.md)
 - 资料
