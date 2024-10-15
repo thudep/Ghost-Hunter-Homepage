@@ -2,8 +2,8 @@
 
 | 周数 | 内容 |
 | :---: | :--- |
-| 3-4 | [赛事宣传与报名](https://ghosthunter.thudep.com/data/invite) |
-| 5 | [第一次培训: 赛事宣讲会和数据集简介](https://ghosthunter.thudep.com/data/briefing-and-data-set) |
+| 3-4 | [赛事宣传](./invite.md)与[报名](./intro.md) |
+| 5 | [第一次培训: 赛事宣讲会和数据集简介](./briefing-and-data-set.md) |
 | 6 | 第二次培训: 基础技能培训 (wsl python3 git) |
 | 7 | 第一次 Workshop |
 | 7-10 | 第三次培训: 优化与提升 (暂定)(TensorFlow, Python代码的优化) |
