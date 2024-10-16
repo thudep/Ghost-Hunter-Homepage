@@ -10,3 +10,4 @@
   - [赛事题目: JUNO probe](./data/gh2024.md)
 - 培训/宣讲会
   - [第一次培训: 赛事宣讲会和数据集简介](./data/briefing-and-data-set.md)
+  - [第二次培训: 基础技能 & 代码讲解](data/basic-skills-and-code-analsis.md)
