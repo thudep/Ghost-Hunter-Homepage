@@ -27,25 +27,19 @@
 - **windows 环境配置**
   1. [wsl2 安装教程](https://physics-data.meow.plus/faq/env/windows/)
   2. [wsl2 安装视频](https://hep.tsinghua.edu.cn/~orv/teaching/physics-data/WSL2Tutorial.mp4)
-
 - **如果你头铁在 windows 下开发(不建议)**
   1. [安装 python](https://www.digitalocean.com/community/tutorials/install-python-windows-10)
   2. [安装 git](https://git-scm.com/downloads/win)
-
 - **如果你是高贵的 macOS 用户**
   1. [macOS 环境配置](https://physics-data.meow.plus/faq/env/mac/)
   2. [在 macOS 上使用 UTM 安装 debian](https://hep.tsinghua.edu.cn/~orv/teaching/physics-data/UTM_Debian-12_arm64.webm)
-
 - **Linux 基础学习**
   1. [Linux 基础教程](https://hep.tsinghua.edu.cn/~orv/teaching/physics-data/IT-2023-6-Linux-Tutorial.pdf)
-
 - **python 学习**
   1. [速通 python](https://learnxinyminutes.com/docs/python/)
   2. [续本达老师的讲义](https://hep.tsinghua.edu.cn/~orv/teaching/physics-data/note.pdf)
-
 - **git 学习**
   1. [git CheatSheet](https://education.github.com/git-cheat-sheet-education.pdf)
-
 
 ## 材料
 
