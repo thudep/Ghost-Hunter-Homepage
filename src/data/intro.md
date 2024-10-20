@@ -36,6 +36,6 @@
 
 ## 报名
 
-**赛事报名问卷:** [清华问卷系统](http://wenjuan.tsinghua.edu.cn/s/ZfqMf2/).
+**赛事报名问卷:** [清华问卷系统](https://wenjuan.tsinghua.edu.cn/s/ZfqMf2/).
 
 如果赛事报名问卷失效或无法加入微信群, 请通过邮件联系: *he-yf22 [AT] tsinghua [DOT] edu [DOT] cn*

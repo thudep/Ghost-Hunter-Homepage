@@ -6,6 +6,7 @@
 - 赛事信息
   - [通知: 帐号创建 && 数据集变更](./data/notice.md)
   - [题目: JUNO probe](./data/gh2024.md)
+  - [赛事 Git 平台](https://ghgit.thudep.com/)
   - [日程安排](./data/schedule.md)
 - 赛事培训
   - [第一次培训: 赛事宣讲会和数据集简介](./data/briefing-and-data-set.md)
