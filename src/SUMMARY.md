@@ -9,7 +9,7 @@
 
 # 赛事信息
 
-- [通知](./data/notice.md)
+- [通知: 帐号创建 && 数据集变更](./data/notice.md)
 - [题目: JUNO probe](./data/gh2024.md)
 - [日程安排](./data/schedule.md)
 
