@@ -44,5 +44,5 @@
 ## 材料
 
 - **回放:** [清华云盘](https://cloud.tsinghua.edu.cn/d/7035773a27044fedbc27/)
-- **讲义:** [清华云盘](https://cloud.tsinghua.edu.cn/d/feee284c59c042bbbd3b/~)
+- **讲义:** [清华云盘](https://cloud.tsinghua.edu.cn/d/feee284c59c042bbbd3b/)
 
