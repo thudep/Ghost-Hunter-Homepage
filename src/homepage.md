@@ -1,7 +1,8 @@
 # Ghost Hunter 中微子数据分析排位赛
 
-[赛事 Gitea 平台](https://ghgit.thudep.com/)
-[赛事排行榜](https://ghosthunter.thudep.com/leaderboard)
+- 赛事平台
+  - [Gitea](https://ghgit.thudep.com/)
+  - [排行榜](https://ghosthunter.thudep.com/leaderboard)
 
 - 赛事背景
   - [Ghost Hunter 邀请函](./data/invite.md)
