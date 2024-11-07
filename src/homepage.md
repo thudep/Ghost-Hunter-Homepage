@@ -13,3 +13,8 @@
 - 赛事培训
   - [第一次培训: 赛事宣讲会和数据集简介](./data/briefing-and-data-set.md)
   - [第二次培训: 基础技能 & 代码讲解](./data/basic-skills-and-code-analsis.md)
+- 赛事网站
+  - [赛事主页 | Ghost Hunter Homepage](https://ghosthunter.thudep.com)
+  - [Git平台 | Ghost Hunter Gitea](https://ghgit.thudep.com)
+  - [文件服务器 | Ghost Hunter Files](https://ghfile.thudep.com:4433)
+  - [状态监控 | DEPSAST Upptime](https://status.thudep.com)
