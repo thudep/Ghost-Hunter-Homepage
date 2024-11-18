@@ -20,4 +20,4 @@
 
 # 赛事讨论
 
-- [第一次 workshop：赛事讨论与分享](./data/first-workshop.md)
+- [第一次 workshop: 赛事讨论与分享](./data/first-workshop.md)
