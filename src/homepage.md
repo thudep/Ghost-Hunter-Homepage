@@ -16,3 +16,5 @@
 - 赛事培训
   - [第一次培训: 赛事宣讲会和数据集简介](./data/briefing-and-data-set.md)
   - [第二次培训: 基础技能 & 代码讲解](./data/basic-skills-and-code-analsis.md)
+- 赛事讨论
+  - [第一次 workshop：赛事讨论与分享](./data/first-workshop.md)
