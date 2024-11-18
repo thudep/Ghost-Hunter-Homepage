@@ -9,7 +9,7 @@
 
 # 赛事信息
 
-- [通知: 共计 3 条](./data/notice.md)
+- [通知: Makefile 的数据集提醒 与 数据集的变更](./data/notice.md)
 - [题目: JUNO probe](./data/gh2024.md)
 - [日程安排](./data/schedule.md)
 
