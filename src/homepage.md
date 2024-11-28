@@ -10,8 +10,8 @@
   - [Ghost Hunter 邀请函](./data/invite.md)
   - [赛事介绍与报名](./data/intro.md)
 - 赛事信息
-  - [重要通知 | Makefile 的数据集提醒 与 数据集的变更](./data/notice.md)
-  - [比赛题目 | JUNO probe](./data/gh2024.md)
+  - [重要通知: Makefile 的提醒&数据集的变更](./data/notice.md)
+  - [比赛题目: JUNO probe](./data/gh2024.md)
   - [日程安排](./data/schedule.md)
   - [评分方式](./data/initial-heats-and-final-round.md)
 - 赛事培训
