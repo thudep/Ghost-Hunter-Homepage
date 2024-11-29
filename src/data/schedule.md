@@ -7,6 +7,6 @@
 | 6 | [第二次培训: 基础技能 & 代码讲解](./basic-skills-and-code-analsis.md) |
 | 10 | [第一次 workshop: 赛事讨论与分享](./first-workshop.md) |
 | **12** | **初赛 (第十二周周日23:59)** |
-| 12 | 第二次 Workshop |
+| 12 | [第二次 Workshop](./second-workshop.md) |
 | 14 | 第三次 Workshop |
 | **15** | **决赛 (第十五周周日23:59)** |

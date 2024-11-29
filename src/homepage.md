@@ -18,6 +18,7 @@
   - [第二次培训: 基础技能 & 代码讲解](./data/basic-skills-and-code-analsis.md)
 - 赛事讨论
   - [第一次 workshop: 赛事讨论与分享](./data/first-workshop.md)
+  - [第二次 workshop: 赛事讨论与分享](./data/second-workshop.md)
 
 # 重要通知:  ssh clone 修复 | Makefile 的提醒 | 数据集的变更
 
