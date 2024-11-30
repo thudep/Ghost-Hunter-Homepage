@@ -19,5 +19,5 @@
 
 ## 材料
 
-<!-- - **回放:** [清华云盘](https://cloud.tsinghua.edu.cn/d/a4ba1d3ffd4848a196ed/)
-- **讲义:** [清华云盘](https://cloud.tsinghua.edu.cn/d/6dce11524a86454aa986/) -->
+- **回放:** [清华云盘](https://cloud.tsinghua.edu.cn/d/dc98698de29547b8a1bd/)
+- **讲义:** [清华云盘](https://cloud.tsinghua.edu.cn/d/02d218f8c81d45c29ef6/)
