@@ -24,6 +24,12 @@
 
 <!-- toc -->
 
+## 邮件列表建立
+
+Ghost Hunter 2024 的邮件列表正式建立，重要的通知也会依托邮件列表为大家群发邮件。邮箱的信息是从gitea直接导出的，如果无法收到邮件请直接在群里提出，我们会手动添加。
+
+鉴于小学期有邮件被清华邮箱拦截的先例，建议大家为域名 l.airelinux.org 或者发件人 gh@l.airelinux.org 添加白名单
+
 ## 评分函数修复与初赛延迟
 
 我们确认评分函数出现问题, 且已经进行修复, 具体可见[721b5e1](https://ghgit.thudep.com/committee/Ghost-Hunter-JUNO-probe/commit/721b5e1acafd8df7903bbedbb4ee9df4089d4c77)
