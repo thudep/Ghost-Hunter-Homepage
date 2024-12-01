@@ -20,11 +20,23 @@
   - [第一次 workshop: 赛事讨论与分享](./data/first-workshop.md)
   - [第二次 workshop: 赛事讨论与分享](./data/second-workshop.md)
 
-# 重要通知:  ssh clone 修复 | Makefile 的提醒 | 数据集的变更
+# 重要通知
+
+<!-- toc -->
+
+## 评分函数修复与初赛延迟
+
+我们确认评分函数出现问题, 且已经进行修复, 具体可见[721b5e1](https://ghgit.thudep.com/committee/Ghost-Hunter-JUNO-probe/commit/721b5e1acafd8df7903bbedbb4ee9df4089d4c77)
+
+我们将在12月2日(周一)晚上向各位选手的仓库推送一个 patch, 这可能会导致本地仓库与远程仓库冲突, 如果有问题可以在选手群里提出并寻求帮助
+
+之前的错误的评分将会被从数据库中删除, 有发现分数消失的队伍, 可以尝试在12月3日(周二)再次提交
+
+因为评分函数故障, 我们的初赛时间延迟到这周五(12月6日)晚上23:59
 
 ## ssh clone 修复
 
-ssh clone 服务修复了, 位于 ghssh.thudep.com:3322, 选手可以在 ~/.ssh/config 添加以下配置来使用，也可以在clone的时候手动指定 3322 端口
+ssh clone 服务修复了, 位于 ghssh.thudep.com:3322, 选手可以在 ~/.ssh/config 添加以下配置来使用, 也可以在clone的时候手动指定 3322 端口
 
 ```config
 Host ghssh.thudep.com
@@ -35,11 +47,11 @@ Host ghssh.thudep.com
 
 ## Makefile 的提醒
 
-为了让大家在技术培训的时候更快的得到结果，我们精简了数据集，将 Makefile 第 20 行的 `seeds:=$(shell seq 16001 16020)` 改为 `seeds:=$(shell seq 16001 16001)`，在自行使用代码的时候可以改回来。
+为了让大家在技术培训的时候更快的得到结果, 我们精简了数据集, 将 Makefile 第 20 行的 `seeds:=$(shell seq 16001 16020)` 改为 `seeds:=$(shell seq 16001 16001)`, 在自行使用代码的时候可以改回来。
 
 ## 数据集的变更
 
-由于在 Debian12 环境下安装 parquet 依赖对选手太过复杂，我们决定将数据集的格式从 parquet 改为 hdf5。请大家重新下载数据集。具体的 diff 如下:
+由于在 Debian12 环境下安装 parquet 依赖对选手太过复杂, 我们决定将数据集的格式从 parquet 改为 hdf5。请大家重新下载数据集。具体的 diff 如下:
 
 ```diff
 赛题是这样的, 我们已经有了足够好的模拟数据作为训练集, 你需要用这些训练集, 得到一个probe函数.
