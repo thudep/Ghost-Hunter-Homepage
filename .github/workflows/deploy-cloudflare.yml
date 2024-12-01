@@ -29,6 +29,12 @@ jobs:
           name: "mdbook-katex"
           version: "0.9.0"
 
+      - uses: supplypike/setup-bin@v4
+        with:
+          uri: "https://github.com/badboy/mdbook-toc/releases/download/0.14.2/mdbook-toc-0.14.2-x86_64-unknown-linux-gnu.tar.gz"
+          name: "mdbook-toc"
+          version: "0.14.2"
+
       - name: Deploy
         uses: cloudflare/wrangler-action@v3
         with:
