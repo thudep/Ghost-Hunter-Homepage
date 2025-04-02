@@ -10,7 +10,7 @@
   2. **重构代码:** 代码整体思路基础代码**不同**, 且存在[CI评分](https://ghosthunter.thudep.com/leaderboard)高于 `-102754348.16193125` (该分数取自[小学期50%分位数](https://hep.tsinghua.edu.cn/~berrysoft/bdeph2024/))
   3. **评分排行:** 小组评分位于的[CI评分](https://ghosthunter.thudep.com/leaderboard)**前12名**
 - **初赛扣分标准:**
-  1. 如果将[比赛数据集](https://ghfile.thudep.com:4433/)内的文件添加到git仓库中, 则最终得分下调示例代码分数的 10% (即`score=score-8511782.743361479`). 本地训练的模型或者自行定义的参数、代码文件等上传不扣分.
+  1. 如果将[比赛数据集](https://ghfile.thudep.com:7200/)内的文件添加到git仓库中, 则最终得分下调示例代码分数的 10% (即`score=score-8511782.743361479`). 本地训练的模型或者自行定义的参数、代码文件等上传不扣分.
 
 ## 决赛评分方式
 

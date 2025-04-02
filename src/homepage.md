@@ -4,7 +4,7 @@
   - [赛事主页 | Ghost Hunter Homepage](https://ghosthunter.thudep.com)
   - [得分排行 | Ghost Hunter Leaderboard](https://ghosthunter.thudep.com/leaderboard)
   - [代码平台 | Ghost Hunter Gitea](https://ghgit.thudep.com)
-  - [训练数据 | Ghost Hunter Files](https://ghfile.thudep.com:4433)
+  - [训练数据 | Ghost Hunter Files](https://ghfile.thudep.com:7200)
   - [状态监控 | DEPSAST Upptime](https://status.thudep.com)
 - 赛事背景
   - [Ghost Hunter 邀请函](./data/invite.md)
