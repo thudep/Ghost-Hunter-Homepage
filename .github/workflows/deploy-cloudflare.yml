@@ -35,9 +35,42 @@ jobs:
           name: "mdbook-toc"
           version: "0.14.2"
 
+      - name: Build mdBooks
+        run: |
+          mkdir -p book
+
+          echo "📘 Building 2024..."
+          cd 2024
+          mdbook build
+          cd ..
+          mkdir -p book/2024
+          cp -r 2024/book/* book/2024/
+
+          echo "📘 Building 2025..."
+          cd 2025
+          mdbook build
+          cd ..
+          mkdir -p book/2025
+          cp -r 2025/book/* book/2025/
+
+          echo "🪄 Creating root redirect page..."
+          cat <<EOF > book/index.html
+          <!DOCTYPE html>
+          <html lang="zh-CN">
+          <head>
+            <meta http-equiv="refresh" content="0; url=/2025/">
+            <meta name="robots" content="noindex">
+            <title>Redirecting...</title>
+          </head>
+          <body>
+            <p>Redirecting to <a href="/2025/">/2025/</a> ...</p>
+          </body>
+          </html>
+          EOF
+
       - name: Deploy
         uses: cloudflare/wrangler-action@v3
         with:
-          preCommands: mdbook build && ls && ls book && ls book/data
+          preCommands: ls && ls book && ls book/data
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
