@@ -7,3 +7,8 @@
   - [训练数据 | Ghost Hunter Files](https://ghfile.thudep.com:7200)
   - [状态监控 | DEPSAST Upptime](https://status.thudep.com)
   - [赛事主页2024 | Ghost Hunter Homepage 2024](https://ghosthunter.thudep.com/2024)
+- 赛事背景
+  - [Ghost Hunter 邀请函](./data/invite.md)
+  - [赛事介绍与报名](./data/intro.md)
+- 赛事信息
+  - [比赛题目: JUNO probe](./data/gh2025.md)
