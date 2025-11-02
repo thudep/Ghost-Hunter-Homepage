@@ -41,4 +41,4 @@
 
 **赛事报名问卷:** [清华问卷系统](https://wenjuan.tsinghua.edu.cn/s/UZBZJvzka/).
 
-如果赛事报名问卷失效或无法加入微信群, 请通过[邮件](mailto:depsast@126.com)联系: depsast@126.com
+如果赛事报名问卷失效或无法加入微信群, 请通过[邮件](mailto:depsast@126.com)联系清华大学工物科协: depsast@126.com
