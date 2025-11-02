@@ -12,3 +12,9 @@
   - [赛事介绍与报名](./data/intro.md)
 - 赛事信息
   - [比赛题目: JUNO probe](./data/gh2025.md)
+  - [日程安排](./data/schedule.md)
+  - [评分方式](./data/scoring-method.md)
+- 赛事培训
+  - [宣讲会]
+  - [probe函数](./data/probe.md)
+  - [培训会]
