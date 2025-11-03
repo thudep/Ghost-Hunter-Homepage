@@ -15,5 +15,6 @@
 
 # 赛事培训
 
-- [宣讲会](./data/briefing-and-probe.md)
+- [宣讲会](./data/briefing.md)
 - [probe函数](./data/probe.md)
+- [培训会](./data/training.md)
