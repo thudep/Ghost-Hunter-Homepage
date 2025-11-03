@@ -15,6 +15,6 @@
   - [日程安排](./data/schedule.md)
   - [评分方式](./data/scoring-method.md)
 - 赛事培训
-  - [宣讲会]
+  - [宣讲会](./data/briefing-and-probe.md)
   - [probe函数](./data/probe.md)
   - [培训会]
