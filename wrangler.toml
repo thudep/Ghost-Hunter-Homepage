@@ -1,6 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
 name = "ghost-hunter"
-main = "main.ts"
 compatibility_date = "2025-05-08"
 assets = { directory = "./book", binding = "ASSETS", not_found_handling = "404-page", run_worker_first = true }
 workers_dev = false

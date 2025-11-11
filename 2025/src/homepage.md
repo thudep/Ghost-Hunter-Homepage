@@ -2,7 +2,7 @@
 
 - 赛事平台
   - [赛事主页 | Ghost Hunter Homepage](https://ghosthunter.thudep.com/2025)
-  - [得分排行 | Ghost Hunter Leaderboard](https://ghosthunter.thudep.com/leaderboard)
+  - [得分排行 | Ghost Hunter Leaderboard](https://gh-leaderboard.thudep.com)
   - [代码平台 | Ghost Hunter Gitea](https://ghgit.thudep.com)
   - [训练数据 | Ghost Hunter Files](https://ghfile.thudep.com:7200)
   - [状态监控 | DEPSAST Upptime](https://status.thudep.com)
