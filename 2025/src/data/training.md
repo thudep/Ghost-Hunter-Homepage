@@ -10,29 +10,33 @@
 
 ## 基本信息
 
-- **主讲人:** 张贺、刘乐融
+- **主讲人:** 刘乐融、张贺、张珺铫、钱昊远
 - **时间:** 2025年11月16日 14:00-17:00
 - **活动形式:** 线下+线上会议
   - **地点:** 五教5201
-  - **线上会议:** 腾讯会议 (会议号待定)
+  - **线上会议:** 腾讯会议: 152-628-127
 - **会议议程:**
-  1. wsl 基础培训
-    - Linux 介绍;
+  1. 14:00-14:20 刘乐融: git 基础培训
+    - git 的核心概念;
+    - git 的基础操作与进阶操作.
+  2. 14:20-14:30 张贺: wsl 基础培训
+    - Linux 介绍与安装;
     - shell 的基本命令.
-  2. git 使用方法
-    - git 的基本思想;
-    - 使用 git 完成代码提交;
-    - 冲突处理.
-  3. python 基础培训
+  3. 14:30-15:20 张贺: python 基础培训
     - python 基本语法与数据结构;
-    - 使用 h5py 读取数据集;
-    - 使用 numpy 进行计算.
-  4. 示例代码介绍
-  5. 答疑与自由交流
+    - python 调试方法;
+    - numpy 的基本用法.
+  4. 15:20-15:35 张珺铫: 代码提交与 ci 介绍
+    - 使用 git 提交代码至 gitea ;
+    - ci 的基本含义以及修改策略.
+  5. 15:35-15:50 钱昊远: 示例代码介绍
+    - 示例代码的基本思想与代码通览;
+    - Makefile 的使用.
+  6. 15:50-17:00 答疑与自由交流
 
 ## 预习材料
 
-- **windows 环境配置**
+- **windows 下的 wsl2 安装**
   1. [wsl2 安装教程](https://physics-data.meow.plus/faq/env/windows/)
   2. [wsl2 安装视频](https://hep.tsinghua.edu.cn/~orv/teaching/physics-data/WSL2Tutorial.mp4)
 - **如果你是高贵的 macOS 用户**
@@ -45,3 +49,8 @@
 - **python 学习**
   1. [速通 python](https://learnxinyminutes.com/docs/python/)
   2. [续本达老师的讲义](https://hep.tsinghua.edu.cn/~orv/teaching/physics-data/note.pdf)
+
+## 材料
+
+- **回放:** [清华云盘](https://cloud.tsinghua.edu.cn/d/5eb37f0886f146749743/)
+- **git 讲义:** [PPT](https://archive1.physnya.top/git-lecture) 
