@@ -66,4 +66,4 @@ $$
 
 [示例代码](https://ghgit.thudep.com/committee/Ghost-Hunter-JUNO-probe-2025)提供了一种直方图构造方法.
 
-这里在培训会后会更新一些其它方法的简要说明.
+另外可以参考[续本达老师团队所积累的研究文档](../pdf/probe.pdf)。
